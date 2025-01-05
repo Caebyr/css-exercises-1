@@ -1,0 +1,15 @@
+.meh{
+    color: white;
+    background-color: black;
+}
+
+.pew{
+    color: black;
+    background-color: rgb(223, 148, 10);
+}
+
+.meh,
+.pew{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+}

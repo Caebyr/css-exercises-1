@@ -1,0 +1,19 @@
+.odd{
+    background-color: hsl(0, 60%, 75%);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Meh{
+    color: blue;
+    font-size: 36px;
+}
+
+#Ok{
+    background-color: hsl(120, 58%, 59%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.add-fontsize{
+    font-size: 24px;
+}
